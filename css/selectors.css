@@ -1,0 +1,30 @@
+/* Universal selector */
+
+*{
+    background-color: aqua;
+    font-size: 70px;
+}
+/* id selector */
+#text{
+    background-color: pink;
+}
+#test{
+    background-color: greenyellow;
+}
+#taste{
+    background-color: gold;
+}
+/* class selector */
+.salman{
+    font-style: italic;
+}
+
+/* tag */
+p{
+    border: 3px solid;
+}
+
+/* group tag */
+h1,h2{
+    color: blueviolet;
+}
